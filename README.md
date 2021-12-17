@@ -8,7 +8,7 @@ This repository documents can be edited via [HackMD.io](https://hackmd.io), a fa
 
 ## Current docs
 
-- [Opzet Implementatieplan SensRNet 2022 'and beyond']()
+- [Opzet Implementatieplan SensRNet 2022 'and beyond'](https://hackmd.io/PQuUKPCqRNyG-wQvFhCnvQ) ([source](./SensRNet-Implementatieplan-2022-en-verder.md))
 
 ## License
 
